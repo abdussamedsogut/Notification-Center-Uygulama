@@ -13,6 +13,8 @@
 		E471A28929AFA8F300CD0341 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E471A28729AFA8F300CD0341 /* Main.storyboard */; };
 		E471A28B29AFA8F400CD0341 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E471A28A29AFA8F400CD0341 /* Assets.xcassets */; };
 		E471A28E29AFA8F400CD0341 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E471A28C29AFA8F400CD0341 /* LaunchScreen.storyboard */; };
+		E471A29629AFB97400CD0341 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E471A29529AFB97400CD0341 /* ViewController2.swift */; };
+		E471A29829AFBAC600CD0341 /* Kisiler.swift in Sources */ = {isa = PBXBuildFile; fileRef = E471A29729AFBAC600CD0341 /* Kisiler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		E471A28A29AFA8F400CD0341 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E471A28D29AFA8F400CD0341 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E471A28F29AFA8F400CD0341 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E471A29529AFB97400CD0341 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		E471A29729AFBAC600CD0341 /* Kisiler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kisiler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +63,12 @@
 				E471A28129AFA8F300CD0341 /* AppDelegate.swift */,
 				E471A28329AFA8F300CD0341 /* SceneDelegate.swift */,
 				E471A28529AFA8F300CD0341 /* ViewController.swift */,
+				E471A29529AFB97400CD0341 /* ViewController2.swift */,
 				E471A28729AFA8F300CD0341 /* Main.storyboard */,
 				E471A28A29AFA8F400CD0341 /* Assets.xcassets */,
 				E471A28C29AFA8F400CD0341 /* LaunchScreen.storyboard */,
 				E471A28F29AFA8F400CD0341 /* Info.plist */,
+				E471A29729AFBAC600CD0341 /* Kisiler.swift */,
 			);
 			path = "Notification Center Uygulama";
 			sourceTree = "<group>";
@@ -139,8 +145,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				E471A28629AFA8F300CD0341 /* ViewController.swift in Sources */,
+				E471A29629AFB97400CD0341 /* ViewController2.swift in Sources */,
 				E471A28229AFA8F300CD0341 /* AppDelegate.swift in Sources */,
 				E471A28429AFA8F300CD0341 /* SceneDelegate.swift in Sources */,
+				E471A29829AFBAC600CD0341 /* Kisiler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
